@@ -1,0 +1,7 @@
+#Mon Aug 29 21:18:35 CEST 2016
+base.0=/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6ec1f0a2010d67792b75acc4213ebe0eed66f47
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_61dc8d2a265118e21b6b5496ff556d078f28f6d4/classes.dex
+base.1=/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_61dc8d2a265118e21b6b5496ff556d078f28f6d4
+file.0=/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6ec1f0a2010d67792b75acc4213ebe0eed66f47/classes.dex

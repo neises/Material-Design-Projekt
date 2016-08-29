@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0-beta3"
+    timestamp="1242388030257453"
+    token="6536795297761309043"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="268" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="29" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="1240711836081011"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/simon/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1242388030257453"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/simon/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
