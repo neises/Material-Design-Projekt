@@ -1,5 +1,7 @@
 # Material-Design-Projekt (Android)
 
+![alt tag](https://abload.de/img/mdp5s0g.png)
+
 In diesem Projekt wurde bei einer bestehenden App die Material-Design-Spezifikation umgesetzt. 
 Insgesamt wurden folgende Arbeiten durchgeführt: 
 
